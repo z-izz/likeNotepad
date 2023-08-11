@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "likeNotepad", "likeNotepad\likeNotepad.csproj", "{EAB4B217-4583-4A1A-BDEC-75977A831051}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "likeNotepad.Gtk", "likeNotepad.Gtk\likeNotepad.Gtk.csproj", "{D6E85EA2-56AB-4123-93CD-C1B639663437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB4B217-4583-4A1A-BDEC-75977A831051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB4B217-4583-4A1A-BDEC-75977A831051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB4B217-4583-4A1A-BDEC-75977A831051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB4B217-4583-4A1A-BDEC-75977A831051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E85EA2-56AB-4123-93CD-C1B639663437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E85EA2-56AB-4123-93CD-C1B639663437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E85EA2-56AB-4123-93CD-C1B639663437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E85EA2-56AB-4123-93CD-C1B639663437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EA6287-6D45-47DA-A545-F6DE6BD10ECF}
+	EndGlobalSection
+EndGlobal
